@@ -1,0 +1,6 @@
+{
+  "appId": "ch.eventkasse.app",
+  "appName": "plugin-test",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}

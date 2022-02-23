@@ -1,0 +1,6 @@
+[
+	{
+		"pkg": "capacitor-plugin-sumup",
+		"classpath": "com.nazar.capacitor.sumup.SumUpPlugin"
+	}
+]
